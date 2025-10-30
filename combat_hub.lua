@@ -31,7 +31,7 @@ local CONFIG = {
         MacGreen = Color3.fromRGB(40, 201, 64)
     },
     Sizes = {
-        Normal = UDim2.new(0, 680, 0, 520),
+        Normal = UDim2.new(0, 580, 0, 560),
         Minimized = UDim2.new(0, 220, 0, 60),
         Maximized = UDim2.new(1, -60, 1, -60)
     },
